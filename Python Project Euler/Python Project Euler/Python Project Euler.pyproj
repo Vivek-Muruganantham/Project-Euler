@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e066f27f-9a02-4284-9033-3cccba48705e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Project Euler 1.py</StartupFile>
+    <StartupFile>Project Euler 2.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Project Euler 2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Project Euler 1.py">
       <SubType>Code</SubType>
     </Compile>
