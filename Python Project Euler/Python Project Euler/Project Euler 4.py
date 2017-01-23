@@ -5,7 +5,7 @@ import Palindrome
 def LargestPalindromic():
     Number = 999 * 999
     # Loop from product of 999 * 999 till 100000
-    for i in range(Number,100000-1):
+    for i in range(Number,100000,-1):
         # Find palindrome number
         if (Palindrome.IsPalindrome(i)):
             for j in range(999,100,-1):
