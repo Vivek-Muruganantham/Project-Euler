@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>e066f27f-9a02-4284-9033-3cccba48705e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Project Euler 4.py</StartupFile>
+    <StartupFile>Project Euler 5.py</StartupFile>
     <SearchPath>Functions\</SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
@@ -37,6 +37,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Project Euler 4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Project Euler 5.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
